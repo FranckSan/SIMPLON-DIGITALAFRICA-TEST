@@ -2,7 +2,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Eventoz - Event Conference & Meetup Bootstrap Template</title>
+    <title>4Sudy | Partager</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

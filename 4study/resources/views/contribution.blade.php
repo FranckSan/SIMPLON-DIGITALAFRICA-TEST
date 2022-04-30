@@ -2,7 +2,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Eventoz - Event Conference & Meetup Bootstrap Template</title>
+    <title>4Sudy | Contribuer</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -21,14 +21,14 @@
 <body>
 
     <!-- preloader start here -->
-    <!-- <div class="preloader">
+    <div class="preloader">
         <div class="preloader-inner">
             <div class="preloader-icon">
                 <span></span>
                 <span></span>
             </div>
         </div>
-    </div> -->
+    </div>
     <!-- preloader ending here -->
 
 
